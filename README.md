@@ -1,3 +1,3 @@
 # Project1
 Janiva
-Project - Game Battle Royal.
+# Project - Game Battle Royal.
